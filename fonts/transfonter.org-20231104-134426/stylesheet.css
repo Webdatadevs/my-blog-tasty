@@ -1,0 +1,270 @@
+@font-face {
+    font-family: 'FSP DEMO - Rotunda Hair';
+    src: url('FONTSPRINGDEMO-RotundaHair-LightBold.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-RotundaHair-LightBold.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FSP DEMO - Rotunda ExtBd';
+    src: url('FONTSPRINGDEMO-RotundaExtBd-BlackBold.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-RotundaExtBd-BlackBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FSP DEMO - Rotunda ExtBd';
+    src: url('FONTSPRINGDEMO-RotundaExtBd-BlackBoldItalic.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-RotundaExtBd-BlackBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FSP DEMO - Rotunda Hair';
+    src: url('FONTSPRINGDEMO-RotundaHair-LightBold.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-RotundaHair-LightBold.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FSP DEMO - Rotunda ExtBd';
+    src: url('FONTSPRINGDEMO-RotundaExtBd-BlackRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-RotundaExtBd-BlackRegular.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FSP DEMO - Rotunda ExtBd';
+    src: url('FONTSPRINGDEMO-RotundaExtBd-BlackBoldItalic.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-RotundaExtBd-BlackBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FSP DEMO - Rotunda ExtBd';
+    src: url('FONTSPRINGDEMO-RotundaExtBd-BlackBold.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-RotundaExtBd-BlackBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FSP DEMO - Rotunda ExtBd';
+    src: url('FONTSPRINGDEMO-RotundaExtBd-BlackItalic.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-RotundaExtBd-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FSP DEMO - Rotunda ExtBd';
+    src: url('FONTSPRINGDEMO-RotundaExtBd-BlackRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-RotundaExtBd-BlackRegular.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FSP DEMO - Rotunda ExtBd';
+    src: url('FONTSPRINGDEMO-RotundaExtBd-BlackItalic.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-RotundaExtBd-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FSP DEMO - Rotunda Hair';
+    src: url('FONTSPRINGDEMO-RotundaHair-LightBoldItalic.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-RotundaHair-LightBoldItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FSP DEMO - Rotunda Hair';
+    src: url('FONTSPRINGDEMO-RotundaHair-LightRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-RotundaHair-LightRegular.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FSP DEMO - Rotunda Hair';
+    src: url('FONTSPRINGDEMO-RotundaHair-LightItalic.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-RotundaHair-LightItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FSP DEMO - Rotunda Hair';
+    src: url('FONTSPRINGDEMO-RotundaHair-LightRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-RotundaHair-LightRegular.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FSP DEMO - Rotunda Hair';
+    src: url('FONTSPRINGDEMO-RotundaHair-LightItalic.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-RotundaHair-LightItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FSP DEMO - Rotunda Reg';
+    src: url('FONTSPRINGDEMO-RotundaReg-BoldBold.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-RotundaReg-BoldBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FSP DEMO - Rotunda Hair';
+    src: url('FONTSPRINGDEMO-RotundaHair-LightBoldItalic.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-RotundaHair-LightBoldItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FSP DEMO - Rotunda Reg';
+    src: url('FONTSPRINGDEMO-RotundaReg-BoldBold.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-RotundaReg-BoldBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FSP DEMO - Rotunda Reg';
+    src: url('FONTSPRINGDEMO-RotundaReg-BoldBoldItalic.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-RotundaReg-BoldBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FSP DEMO - Rotunda Reg';
+    src: url('FONTSPRINGDEMO-RotundaReg-BoldRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-RotundaReg-BoldRegular.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FSP DEMO - Rotunda Reg';
+    src: url('FONTSPRINGDEMO-RotundaReg-BoldBoldItalic.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-RotundaReg-BoldBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FSP DEMO - Rotunda Reg';
+    src: url('FONTSPRINGDEMO-RotundaReg-BoldItalic.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-RotundaReg-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FSP DEMO - Rotunda Thin-Med';
+    src: url('FONTSPRINGDEMO-RotundaThin-MedBold.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-RotundaThin-MedBold.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FSP DEMO - Rotunda Thin-Med';
+    src: url('FONTSPRINGDEMO-RotundaThin-MedBoldItalic.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-RotundaThin-MedBoldItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FSP DEMO - Rotunda Reg';
+    src: url('FONTSPRINGDEMO-RotundaReg-BoldItalic.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-RotundaReg-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FSP DEMO - Rotunda Thin-Med';
+    src: url('FONTSPRINGDEMO-RotundaThin-MedItalic.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-RotundaThin-MedItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FSP DEMO - Rotunda Thin-Med';
+    src: url('FONTSPRINGDEMO-RotundaThin-MedItalic.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-RotundaThin-MedItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FSP DEMO - Rotunda Reg';
+    src: url('FONTSPRINGDEMO-RotundaReg-BoldRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-RotundaReg-BoldRegular.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FSP DEMO - Rotunda Thin-Med';
+    src: url('FONTSPRINGDEMO-RotundaThin-MedBold.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-RotundaThin-MedBold.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FSP DEMO - Rotunda Thin-Med';
+    src: url('FONTSPRINGDEMO-RotundaThin-MedBoldItalic.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-RotundaThin-MedBoldItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
