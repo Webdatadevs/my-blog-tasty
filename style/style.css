@@ -8,6 +8,7 @@ button {
 button:hover {
   background: rgb(95, 28, 3);
   color: bisque;
+  cursor: url("../cursor-02-svgrepo-com.svg"), pointer;
   box-shadow: 2px 0px 8px rgb(95, 28, 3);
 }
 
